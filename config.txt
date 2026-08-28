@@ -1,1 +1,10 @@
-Xin chao! Day la noi dung cap nhat tu xa. Test cap nhat token online
+{
+  "token": [
+    {
+      "token": "TEST_TOKEN",
+      "tok": "TEST_TOKEN_1",
+      "mt": "TEST_MT",
+      "tokyt": "TEST_TOKYT"
+    }
+  ]
+}
